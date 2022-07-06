@@ -9,13 +9,6 @@ public class Main {
         int arraySize, i = 0, sum = 0; //Variable para el tamaño de la array
         boolean bandera = true;
 
-        /*
-         * 1.- Pedir datos al usuario
-         *  1.1.- Pedir tamaño del array
-         *  1.2.- Pedir tantos numeros de enteros como el tamaño
-         * 2.- Suma todos los arrays
-         * 3.- Devolver resultados
-         */
         System.out.print("Digite el tamaño del Array: ");
         arraySize = sc.nextInt(); // Guardamos el tamaño de la array
 
